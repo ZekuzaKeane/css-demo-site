@@ -7,4 +7,4 @@ Horiseon Social Solution Services is a company with a focus on providing top-qua
 ![horiseon2](https://github.com/ZekuzaKeane/css-demo-site/assets/133972599/888c07de-5616-4440-b949-26ad956833be)
 
 ## Link
-https://zekuzakeane.github.io/css-demo-site/
+https://zekuzakeane.github.io/module-1-challenge/
