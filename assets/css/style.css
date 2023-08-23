@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+/*
+Header Class defines the properties and values of the top text and navigation bar.
+*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,7 +28,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,14 +36,18 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/*
+Defines properites and values for links and plain text.
+*/
 
 a {
     color: #ffffff;
@@ -49,6 +57,10 @@ a {
 p {
     font-size: 16px;
 }
+
+/*
+Hero class and following classes define properties and values for body elements.
+*/
 
 .hero {
     height: 800px;
@@ -187,6 +199,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*
+Footer defines the properties and values for the footer of the page.
+*/
 
 .footer {
     padding: 30px;
